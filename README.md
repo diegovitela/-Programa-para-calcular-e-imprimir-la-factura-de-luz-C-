@@ -1,4 +1,4 @@
-Copia el codigo que esta abajo y cambia los valores de comicion por las que usted desee 
+Copia el codigo que esta abajo y cambia los valores de comicion por las que usted desee, les recomedamos cambiar el valor del IVA dependiendo su pais y tambien cambiar "Total por consumo, 1.20 por unidad" por la cantidad que te cobra tu empresa de luz 
 
 
 namespace Examen
