@@ -1,5 +1,9 @@
 Copia el codigo que esta abajo y cambia los valores de comicion por las que usted desee 
 
+
+
+
+
 namespace Examen
 {
     class Program
