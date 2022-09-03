@@ -4,11 +4,9 @@ Copia el codigo que esta abajo y cambia los valores de comicion por las que uste
 
 
 
-namespace Examen
-{
 
-    class Program
-    {
+
+    
     
         static void Main(string[] args)
         {
