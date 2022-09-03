@@ -95,4 +95,4 @@ namespace Examen
     }
 }
 
-file:///C:/Users/netce/Downloads/Examen%20Parte%202%20(3).cs    Aqui esta el link del codigo completo por si solo lo quieres copiar y pegar ya que este codigo no aparece completo ya que la parte de declaraciones de variable no aparece como deberia 
+file:///C:/Users/netce/Downloads/Examen%20Parte%202%20(3).cs    Aqui esta el link del codigo completo por cualquier cosa 
