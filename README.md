@@ -10,16 +10,6 @@ namespace Examen
             int Id;
             string nom;
             int cont;
-            
-namespace Examen
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            int Id;
-            string nom;
-            int cont;
 
             Console.Write($"Ingrese su ID del cliente: ");
             Id = Convert.ToInt32(Console.ReadLine());
@@ -95,3 +85,5 @@ namespace Examen
 
     }
 }
+
+file:///C:/Users/netce/Downloads/Examen%20Parte%202%20(3).cs    Aqui esta el link del codigo completo por si solo lo quieres copiar y pegar ya que este codigo no aparece completo ya que la parte de declaraciones de variable no aparece como deberia 
