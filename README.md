@@ -1,9 +1,6 @@
 Copia el codigo que esta abajo y cambia los valores de comicion por las que usted desee 
 
 
-
-
-
 namespace Examen
 {
     class Program
@@ -13,7 +10,16 @@ namespace Examen
             int Id;
             string nom;
             int cont;
-
+            
+namespace Examen
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int Id;
+            string nom;
+            int cont;
 
             Console.Write($"Ingrese su ID del cliente: ");
             Id = Convert.ToInt32(Console.ReadLine());
